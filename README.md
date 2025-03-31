@@ -4,5 +4,5 @@ allow students to explore courses, enroll in them, and view testimonials. You wi
 components, manage state, and implement dynamic interactions while adhering to React best practices.
 
 ## Collaborators
-- Sebastian Silva 30131305
+- Sebastian Silva (30131305)
 - Erioluwa Temiloluwa (30187041)
