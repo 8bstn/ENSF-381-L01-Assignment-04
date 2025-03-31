@@ -1,3 +1,7 @@
+// Group Members:
+// Sebastian Silva (30131305)
+// Erioluwa Temiloluwa (30187041)
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
